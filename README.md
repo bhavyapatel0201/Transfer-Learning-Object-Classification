@@ -1,4 +1,4 @@
-# Transfer Learning for Object Classification
+﻿# Transfer Learning for Object Classification
 
 A deep-learning image classification project using transfer learning with pretrained **VGG19** and **DenseNet121** models to classify everyday objects.
 
@@ -68,14 +68,13 @@ Generated directories such as `raw_photos/`, `dataset/`, and `output/` are creat
 - Pillow
 - Scikit-learn
 - Matplotlib
-- OpenCV-related image-processing utilities where applicable
 
 ## Installation
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Transfer-Learning-Object-Classification.git
+git clone https://github.com/bhavyapatel0201/Transfer-Learning-Object-Classification.git
 cd Transfer-Learning-Object-Classification
 ```
 
