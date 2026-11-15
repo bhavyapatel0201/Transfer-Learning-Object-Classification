@@ -1,0 +1,7 @@
+
+# model checkpoints, datasets, caches
+*.pt
+*.pth
+__pycache__/
+data/
+.venv/
